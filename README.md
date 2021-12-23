@@ -12,4 +12,4 @@ Rapid detection of COVID-19 cases is a significant step to fight against this vi
 * The task is a simple classification problem where given an input chest X-ray image, the machine learning-based model must detect whether the subject of study has been infected or not.
 
 # Methods: 
-* Here we have implemented Neural Network using CNN to detect pattern from X-Rays Images & give us a Result wheather the Person is being Covid Positive or Negative.
+* Here we have implemented Neural Network using CNN to detect pattern from X-Rays Images & give us a Result weather the Person is being Covid Positive or Negative.
